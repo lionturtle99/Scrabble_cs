@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType> // only for use if you have a front end
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+  
+</Project>
